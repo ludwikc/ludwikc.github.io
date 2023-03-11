@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2020-03-01-how-to.md",
+                "file": "Test note.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2020-03-01-how-to.md",
+                "file": "Test note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2020-03-01-how-to.md",
+                "file": "Test note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2020-03-01-how-to.md"
+                "file": "Test note.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "984bbdc3d19e5090",
   "lastOpenFiles": [
-    "Test note.md",
     "2020-03-01-how-to.md",
+    "Test note.md",
     "2020-03-01-features.md"
   ]
 }
