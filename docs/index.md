@@ -1,4 +1,8 @@
-# Welcome to MkDocs
+---
+publish: "true"
+---
+
+
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 

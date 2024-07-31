@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "35463bc698989dfa",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d0f69c372ff1c9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5009f713361803ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a2ad715a3eb509ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Książka/Strony techniczne/Pisz ze mną!.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "89997bb5d2682ff9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Książka/index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b7d721d4d73efae9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Książka/Luźne notatki i pomysły.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "64648a4ae78e9fee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Książka/Luźne cytaty.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d3ead898689cbb4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Książka/index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "293a8e59bba8fad4",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ffb94358784df32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e39afe4fe4b4772a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a00beb8eeac97219",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5b2c771be1b451d1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9a57a91ff8e9dfd8",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c4afba3d9eb72cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43ca9f04beaab771",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Książka/index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4c590badcca5ae2c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Książka/index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "db6f41e4e87b7d44",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "66b88d57df74d00c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Książka/index.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d3ead898689cbb4b",
+  "lastOpenFiles": [
+    "Książka/Strony techniczne/Dlaczego Open Source?.md",
+    "Książka/Strony techniczne/Jak formatować tekst w Markdown?.md",
+    "Książka/Strony techniczne/Pisz ze mną!.md",
+    "Książka/index.md",
+    "Książka/Luźne cytaty.md",
+    "Książka/Luźne notatki i pomysły.md",
+    "Społeczność/index.md",
+    "index.md",
+    "Książka/Strony techniczne",
+    "Społeczność",
+    "Book/Welcome.md",
+    "create a link.md"
+  ]
+}
