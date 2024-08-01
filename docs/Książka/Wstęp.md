@@ -28,9 +28,8 @@ Dalej powiemy sobie o podstawach automatyzacji, bo nie musisz od razu zaczynać 
 
 Podpowiem Ci w jaki sposób mieć więcej werwy do pracy. Jak to jest, że niektórzy (nazywam ich szumnie ludźmi sukcesu) potrafią rano wstać, zabrać się do roboty i po prostu robić robotę. Bez zastanawiania się, czy nam się chce, czy nie, czy pada deszcz, czy świeci słońce. Z werwą realizują kolejne punkty listy to do.
 
-### Hakowanie własnego maila
+### TBD
 
-Hakowanie własnej skrzynki pocztowej może być doskonałym sposobem na podniesienie produktywności, jeśli to maile są podstawą codziennej komunikacji. Oczywiście istnieją liczne komunikatory, z których na co dzień korzystamy: Signal, Whatsapp, Messenger, nawet Instagram czy TikTok, ale skupiamy się na mailach jako tej formie komunikacji, która często zajmuje nam dużo czasu, szczególnie w obszarach zawodowych.
 
 ### Oszukać swój umysł
 

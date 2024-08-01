@@ -2,47 +2,57 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://ludwikc.github.io/Lifehacker/</loc>
-         <lastmod>2024-07-31</lastmod>
+         <lastmod>2024-08-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ludwikc.github.io/Lifehacker/Ksi%C4%85%C5%BCka/</loc>
-         <lastmod>2024-07-31</lastmod>
+         <lastmod>2024-08-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ludwikc.github.io/Lifehacker/Ksi%C4%85%C5%BCka/7%20Technik/</loc>
+         <lastmod>2024-08-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ludwikc.github.io/Lifehacker/Ksi%C4%85%C5%BCka/Lu%C5%BAne%20cytaty/</loc>
-         <lastmod>2024-07-31</lastmod>
+         <lastmod>2024-08-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ludwikc.github.io/Lifehacker/Ksi%C4%85%C5%BCka/Lu%C5%BAne%20notatki%20i%20pomys%C5%82y/</loc>
-         <lastmod>2024-07-31</lastmod>
+         <lastmod>2024-08-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ludwikc.github.io/Lifehacker/Ksi%C4%85%C5%BCka/Wst%C4%99p/</loc>
-         <lastmod>2024-07-31</lastmod>
+         <lastmod>2024-08-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ludwikc.github.io/Lifehacker/Ksi%C4%85%C5%BCka/Strony%20techniczne/Dlaczego%20Open%20Source%3F/</loc>
-         <lastmod>2024-07-31</lastmod>
+         <lastmod>2024-08-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ludwikc.github.io/Lifehacker/Ksi%C4%85%C5%BCka/Strony%20techniczne/Jak%20formatowa%C4%87%20tekst%20w%20Markdown%3F/</loc>
-         <lastmod>2024-07-31</lastmod>
+         <lastmod>2024-08-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ludwikc.github.io/Lifehacker/Ksi%C4%85%C5%BCka/Strony%20techniczne/Pisz%20ze%20mn%C4%85%21/</loc>
-         <lastmod>2024-07-31</lastmod>
+         <lastmod>2024-08-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ludwikc.github.io/Lifehacker/Spo%C5%82eczno%C5%9B%C4%87/</loc>
-         <lastmod>2024-07-31</lastmod>
+         <lastmod>2024-08-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ludwikc.github.io/Lifehacker/Spo%C5%82eczno%C5%9B%C4%87/Web/</loc>
+         <lastmod>2024-08-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>

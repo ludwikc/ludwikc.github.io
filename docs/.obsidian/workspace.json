@@ -25,74 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Książka/Strony techniczne/Pisz ze mną!.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "89997bb5d2682ff9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Książka/index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b7d721d4d73efae9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Książka/Luźne notatki i pomysły.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "64648a4ae78e9fee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Książka/Luźne cytaty.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d3ead898689cbb4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Książka/index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb3cb27178baea5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Książka/Wstęp.md",
+                "file": "Książka/7 Technik.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Książka/Wstęp.md",
+                "file": "Książka/7 Technik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Książka/Wstęp.md",
+                "file": "Książka/7 Technik.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Książka/Wstęp.md"
+                "file": "Książka/7 Technik.md"
               }
             }
           }
@@ -219,17 +159,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cb3cb27178baea5d",
+  "active": "a2ad715a3eb509ab",
   "lastOpenFiles": [
-    "Książka/index.md",
-    "Książka/Wstęp.md",
-    "Książka/Strony techniczne/Dlaczego Open Source?.md",
-    "Książka/Strony techniczne/Jak formatować tekst w Markdown?.md",
+    "Książka/5. Praca Energetyczna.md",
+    "Książka/1. Praca Sprawna.md",
+    "Książka/7. Praca Wspólna.md",
+    "Książka/7 Technik.md",
+    "Książka/4. Praca Zautomatyzowana.md",
+    "Książka/3. Praca skuteczna.md",
+    "Książka/2. Praca Głęboka.md",
     "Książka/Strony techniczne/Pisz ze mną!.md",
-    "Książka/Luźne cytaty.md",
+    "Książka/index.md",
     "Książka/Luźne notatki i pomysły.md",
+    "Książka/Luźne cytaty.md",
+    "Książka/Wstęp.md",
+    "Społeczność/Web.md",
     "Społeczność/index.md",
     "index.md",
+    "Książka/Strony techniczne/Dlaczego Open Source?.md",
+    "Książka/Strony techniczne/Jak formatować tekst w Markdown?.md",
     "Książka/Strony techniczne",
     "Społeczność",
     "Book/Welcome.md",
