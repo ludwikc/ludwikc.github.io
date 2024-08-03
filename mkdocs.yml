@@ -2,7 +2,7 @@ site_name: Lifehacker
 site_url: https://ludwikc.net
 docs_dir: docs
 theme:
-  logo: fontawesome/solid/dharmachakra
+  logo: assets/images/favicon.png
   name: material
   palette:
     - media: "(prefers-color-scheme)"
@@ -73,6 +73,8 @@ extra:
   generator: false
 
 plugins:
+  - git-authors
+
 #  - pub-obsidian:
 #      obsidian_dir: .obsidian
 #  - pub-meta:
