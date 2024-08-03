@@ -1,15 +1,37 @@
 site_name: Lifehacker
-site_url: https://ludwikc.github.io/Lifehacker
+site_url: https://ludwikc.net
 docs_dir: docs
 theme:
+  logo: fontawesome/solid/dharmachakra
   name: material
   palette:
-    primary: black
-    accent: blue
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default 
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+      primary: black
+      accent: blue
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+
   features:
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.instant
+    - navigation.path
+    - navigation.top
+    - navigation.footer
+
+repo_url: https://github.com/ludwikc/Lifehacker
+repo_name: ludwikc/lifehacker
 
 markdown_extensions:
   - pymdownx.highlight:
@@ -29,7 +51,9 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
 extra:
-  analytics: 
+  analytics:
+    provider: google
+    property: G-CGKPMN1HP1 
     feedback:
       title: Was this page helpful?
       ratings:
@@ -43,7 +67,10 @@ extra:
           data: 0
           note: >- 
             Thanks for your feedback!
-
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/ludwikc
+  generator: false
 
 plugins:
 #  - pub-obsidian:

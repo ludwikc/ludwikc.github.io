@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7a229bd5b7db3bb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Książka/7 Technik.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -159,25 +171,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a2ad715a3eb509ab",
+  "active": "7a229bd5b7db3bb9",
   "lastOpenFiles": [
+    "Untitled.md",
+    "index.md",
+    "Książka/Wstęp.md",
+    "Książka/Luźne notatki i pomysły.md",
+    "Książka/Luźne cytaty.md",
+    "Książka/index.md",
+    "Książka/Strony techniczne/Pisz ze mną!.md",
+    "Książka/Strony techniczne/Jak formatować tekst w Markdown?.md",
+    "Książka/Strony techniczne/Dlaczego Open Source?.md",
+    "Książka/7 Technik.md",
     "Książka/5. Praca Energetyczna.md",
     "Książka/1. Praca Sprawna.md",
     "Książka/7. Praca Wspólna.md",
-    "Książka/7 Technik.md",
     "Książka/4. Praca Zautomatyzowana.md",
     "Książka/3. Praca skuteczna.md",
     "Książka/2. Praca Głęboka.md",
-    "Książka/Strony techniczne/Pisz ze mną!.md",
-    "Książka/index.md",
-    "Książka/Luźne notatki i pomysły.md",
-    "Książka/Luźne cytaty.md",
-    "Książka/Wstęp.md",
     "Społeczność/Web.md",
     "Społeczność/index.md",
-    "index.md",
-    "Książka/Strony techniczne/Dlaczego Open Source?.md",
-    "Książka/Strony techniczne/Jak formatować tekst w Markdown?.md",
     "Książka/Strony techniczne",
     "Społeczność",
     "Book/Welcome.md",
