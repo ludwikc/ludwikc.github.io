@@ -1,72 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://ludwikc.net/</loc>
+         <loc>https://ludwikc.net/strona-gowna/</loc>
          <lastmod>2024-08-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://ludwikc.net/2020-01-01-spowiedz-noworoczna/</loc>
+         <loc>https://ludwikc.net/jak-zbudowac-digital-garden-z-obsidian-i-mkdocs/</loc>
          <lastmod>2024-08-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://ludwikc.net/2021-04-15-budowanie-wiezi-z-dzieckiem-wspolne-przezywanie-emocji/</loc>
+         <loc>https://ludwikc.net/blog/budowanie-wiezi-wspolne-przezywanie-emocji/</loc>
+         <lastmod>2021-04-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ludwikc.net/ksiazka/luzne-notatki/</loc>
          <lastmod>2024-08-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://ludwikc.net/Untitled/</loc>
+         <loc>https://ludwikc.net/ksiazka/-ksiazka/</loc>
          <lastmod>2024-08-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://ludwikc.net/Ksi%C4%85%C5%BCka/</loc>
+         <loc>https://ludwikc.net/index-0/</loc>
          <lastmod>2024-08-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://ludwikc.net/Ksi%C4%85%C5%BCka/7%20Technik/</loc>
+         <loc>https://ludwikc.net/blog/archive/2021/</loc>
          <lastmod>2024-08-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://ludwikc.net/Ksi%C4%85%C5%BCka/Lu%C5%BAne%20cytaty/</loc>
+         <loc>https://ludwikc.net/blog/categories/Parenting/</loc>
          <lastmod>2024-08-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://ludwikc.net/Ksi%C4%85%C5%BCka/Lu%C5%BAne%20notatki%20i%20pomys%C5%82y/</loc>
-         <lastmod>2024-08-03</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://ludwikc.net/Ksi%C4%85%C5%BCka/Wst%C4%99p/</loc>
-         <lastmod>2024-08-03</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://ludwikc.net/Ksi%C4%85%C5%BCka/Strony%20techniczne/Dlaczego%20Open%20Source%3F/</loc>
-         <lastmod>2024-08-03</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://ludwikc.net/Ksi%C4%85%C5%BCka/Strony%20techniczne/Jak%20formatowa%C4%87%20tekst%20w%20Markdown%3F/</loc>
-         <lastmod>2024-08-03</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://ludwikc.net/Ksi%C4%85%C5%BCka/Strony%20techniczne/Pisz%20ze%20mn%C4%85%21/</loc>
-         <lastmod>2024-08-03</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://ludwikc.net/Spo%C5%82eczno%C5%9B%C4%87/</loc>
-         <lastmod>2024-08-03</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://ludwikc.net/Spo%C5%82eczno%C5%9B%C4%87/Web/</loc>
+         <loc>https://ludwikc.net/blog/tags/undefined/</loc>
          <lastmod>2024-08-03</lastmod>
          <changefreq>daily</changefreq>
     </url>

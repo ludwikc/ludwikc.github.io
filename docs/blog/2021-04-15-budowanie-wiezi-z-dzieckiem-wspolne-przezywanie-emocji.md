@@ -1,22 +1,23 @@
 ---
 id: 7233
-title: 'Budowanie więzi: Wspólne przeżywanie emocji'
-date: '2021-04-15T08:23:54+02:00'
-author: 'Ludwik C. Siadlak'
+title: "Budowanie więzi: Wspólne przeżywanie emocji"
+date: 2021-04-15T08:23:54+02:00
+author: Ludwik C. Siadlak
 layout: post
-guid: 'https://personaldevelopment.pl/?p=7233'
+guid: https://personaldevelopment.pl/?p=7233
 permalink: /budowanie-wiezi-z-dzieckiem-wspolne-przezywanie-emocji/
 thrive_element_visibility:
-    - 'a:0:{}'
+  - a:0:{}
 thrive_theme_video_format_meta:
-    - 'a:2:{s:4:"type";s:7:"youtube";s:13:"video_options";a:18:{s:12:"aspect-ratio";a:1:{s:5:"value";s:0:"";}s:20:"aspect-ratio-default";a:1:{s:5:"value";s:0:"";}s:5:"float";a:1:{s:5:"value";s:0:"";}s:16:"float-padding1-d";a:1:{s:5:"value";s:0:"";}s:16:"float-padding2-d";a:1:{s:5:"value";s:0:"";}s:14:"float-position";a:1:{s:5:"value";s:0:"";}s:16:"float-visibility";a:1:{s:5:"value";s:0:"";}s:13:"float-width-d";a:1:{s:5:"value";s:0:"";}s:10:"is-dynamic";a:1:{s:5:"value";s:0:"";}s:11:"is-floating";a:1:{s:5:"value";s:0:"";}s:3:"url";a:1:{s:5:"value";s:0:"";}s:9:"hide_logo";a:1:{s:5:"value";s:0:"";}s:13:"hide_controls";a:1:{s:5:"value";s:0:"";}s:12:"hide_related";a:1:{s:5:"value";s:0:"";}s:8:"autoplay";a:1:{s:5:"value";s:0:"";}s:15:"hide_fullscreen";a:1:{s:5:"value";s:0:"";}s:18:"start_time_minutes";a:1:{s:5:"value";i:0;}s:18:"start_time_seconds";a:1:{s:5:"value";i:0;}}}'
+  - a:2:{s:4:"type";s:7:"youtube";s:13:"video_options";a:18:{s:12:"aspect-ratio";a:1:{s:5:"value";s:0:"";}s:20:"aspect-ratio-default";a:1:{s:5:"value";s:0:"";}s:5:"float";a:1:{s:5:"value";s:0:"";}s:16:"float-padding1-d";a:1:{s:5:"value";s:0:"";}s:16:"float-padding2-d";a:1:{s:5:"value";s:0:"";}s:14:"float-position";a:1:{s:5:"value";s:0:"";}s:16:"float-visibility";a:1:{s:5:"value";s:0:"";}s:13:"float-width-d";a:1:{s:5:"value";s:0:"";}s:10:"is-dynamic";a:1:{s:5:"value";s:0:"";}s:11:"is-floating";a:1:{s:5:"value";s:0:"";}s:3:"url";a:1:{s:5:"value";s:0:"";}s:9:"hide_logo";a:1:{s:5:"value";s:0:"";}s:13:"hide_controls";a:1:{s:5:"value";s:0:"";}s:12:"hide_related";a:1:{s:5:"value";s:0:"";}s:8:"autoplay";a:1:{s:5:"value";s:0:"";}s:15:"hide_fullscreen";a:1:{s:5:"value";s:0:"";}s:18:"start_time_minutes";a:1:{s:5:"value";i:0;}s:18:"start_time_seconds";a:1:{s:5:"value";i:0;}}}
 thrive_theme_audio_format_meta:
-    - 'a:2:{s:4:"type";s:6:"custom";s:13:"audio_options";a:4:{s:3:"url";a:1:{s:5:"value";s:0:"";}s:13:"data-autoplay";a:1:{s:5:"value";s:0:"";}s:4:"loop";a:1:{s:5:"value";s:0:"";}s:12:"controlsList";a:1:{s:5:"value";s:0:"";}}}'
+  - a:2:{s:4:"type";s:6:"custom";s:13:"audio_options";a:4:{s:3:"url";a:1:{s:5:"value";s:0:"";}s:13:"data-autoplay";a:1:{s:5:"value";s:0:"";}s:4:"loop";a:1:{s:5:"value";s:0:"";}s:12:"controlsList";a:1:{s:5:"value";s:0:"";}}}
 tve_global_scripts:
-    - 'a:3:{s:4:"head";s:0:"";s:4:"body";s:0:"";s:6:"footer";s:0:"";}'
+  - a:3:{s:4:"head";s:0:"";s:4:"body";s:0:"";s:6:"footer";s:0:"";}
 image: /wp-content/uploads/2021/04/0C4E6D9F-0114-43A5-BF7F-F3AF7C89EE95.jpeg
 categories:
-    - Parenting
+  - Parenting
+publish: "true"
 ---
 
 Jedną z kluczowych zasad, która przyświeca nam przy wychowywaniu Leny jest przeżywanie emocji. Zarówno tych radosnych jak i tych przykrych.

@@ -13,31 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "ksiazka/README.md.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a2ad715a3eb509ab",
+            "id": "22800247ea0379a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Książka/7 Technik.md",
+                "file": "Digital Garden.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7a229bd5b7db3bb9",
+            "id": "b76db3a3fbb3541b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Książka/7 Technik.md",
+                "file": "Obsidian-Dropshare Plugin.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Książka/7 Technik.md",
+                "file": "Obsidian-Dropshare Plugin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Książka/7 Technik.md",
+                "file": "Obsidian-Dropshare Plugin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Książka/7 Technik.md"
+                "file": "Obsidian-Dropshare Plugin.md"
               }
             }
           }
@@ -171,31 +171,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7a229bd5b7db3bb9",
+  "active": "b76db3a3fbb3541b",
   "lastOpenFiles": [
-    "2020-01-01-spowiedz-noworoczna.md",
-    "2021-04-15-budowanie-wiezi-z-dzieckiem-wspolne-przezywanie-emocji.md",
-    "Untitled.md",
-    "index.md",
-    "Książka/Wstęp.md",
-    "Książka/Luźne notatki i pomysły.md",
-    "Książka/Luźne cytaty.md",
+    "Digital Garden.md",
+    "Obsidian-Dropshare Plugin.md",
+    "SIADLAK-Screenshot-202408031645ksxzj.png",
+    "ksiazka/README.md.md",
+    "Untitled",
+    "ksiazka/Luźne notatki i pomysły.md",
+    "00_Strona Główna.md",
+    "ksiazka",
+    "kontakt",
+    "społeczność",
+    "książka/Luźne notatki i pomysły.md",
+    "książka",
+    "book/Luźne notatki i pomysły.md",
+    "book/index.md",
+    "book",
+    "książka/index.md",
+    "książka",
+    "blog/2021-04-15-budowanie-wiezi-z-dzieckiem-wspolne-przezywanie-emocji.md",
+    "blog",
+    "Blog/2021-04-15-budowanie-wiezi-z-dzieckiem-wspolne-przezywanie-emocji.md",
+    "Blog",
+    "untitled folder",
     "Książka/index.md",
     "Książka/Strony techniczne/Pisz ze mną!.md",
     "Książka/Strony techniczne/Jak formatować tekst w Markdown?.md",
     "Książka/Strony techniczne/Dlaczego Open Source?.md",
+    "Książka/Luźne cytaty.md",
     "Książka/7 Technik.md",
-    "Książka/5. Praca Energetyczna.md",
-    "Książka/1. Praca Sprawna.md",
-    "Książka/7. Praca Wspólna.md",
-    "Książka/4. Praca Zautomatyzowana.md",
-    "Książka/3. Praca skuteczna.md",
-    "Książka/2. Praca Głęboka.md",
+    "blog/2020-01-01-spowiedz-noworoczna.md",
+    "Społeczność/Web 2.md",
     "Społeczność/Web.md",
     "Społeczność/index.md",
-    "Książka/Strony techniczne",
-    "Społeczność",
-    "Book/Welcome.md",
-    "create a link.md"
+    "Książka/Wstęp.md",
+    "Książka/5. Praca Energetyczna.md",
+    "Książka/1. Praca Sprawna.md",
+    "Książka/7. Praca Wspólna.md"
   ]
 }

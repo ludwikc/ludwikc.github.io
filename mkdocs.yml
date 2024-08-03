@@ -1,4 +1,4 @@
-site_name: Lifehacker
+site_name: Ludwik C. Siadlak. Lifehacker.
 site_url: https://ludwikc.net
 docs_dir: docs
 theme:
@@ -55,7 +55,7 @@ extra:
     provider: google
     property: G-CGKPMN1HP1 
     feedback:
-      title: Was this page helpful?
+      title: Czy to było ciekawe?
       ratings:
         - icon: material/emoticon-happy-outline
           name: This page was helpful
@@ -66,22 +66,38 @@ extra:
           name: This page could be improved
           data: 0
           note: >- 
-            Thanks for your feedback!
+            Dzięki!
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/ludwikc
   generator: false
 
 plugins:
-  - git-authors
-
-#  - pub-obsidian:
-#      obsidian_dir: .obsidian
-#  - pub-meta:
-#      publish:
-#        file_default: publish
-#        file_warn_on_missing: true
-#        dir_default: published
+  - git-committers:
+      repository: ludwikc/ludwikc.net
+      branch: main
+  - pub-obsidian:
+      obsidian_dir: .obsidian
+  - pub-meta:
+      publish:
+        file_default: draft
+        file_warn_on_missing: true
+        dir_default: published
+      title:
+        key_name: title
+      overview:
+        default: auto
+        key_name: permalink
+  - pub-blog:
+      teaser_marker: "<!-- more -->"
+      searchable_non_posts: false
+      posts_per_page: 5
+      slug: blog
+  - pub-social:
+      site_name_in_title:
+        location: after
+        delimiter: " - "
+  
 
 copyright: |
   &copy; 2024 <a href="https://siadlak.com"  target="_blank" rel="noopener">Ludwik C. Siadlak</a>

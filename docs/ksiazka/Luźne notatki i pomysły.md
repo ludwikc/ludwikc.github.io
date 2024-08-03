@@ -1,5 +1,6 @@
 ---
 publish: "true"
+title: Luźne notatki
 ---
 
 
