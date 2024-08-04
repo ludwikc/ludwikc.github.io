@@ -80,10 +80,10 @@ extra:
   generator: false
 
 plugins:
-#  - git-committers:
-#      repository: ludwikc/ludwikc.net
-#      branch: main
-#      type: timeago
+  - git-committers:
+      repository: ludwikc/ludwikc.net
+      branch: main
+      type: timeago
   - git-revision-date-localized:
       enable_creation_date: true
   - pub-obsidian:
