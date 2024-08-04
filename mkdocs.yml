@@ -1,6 +1,13 @@
 site_name: Ludwik C. Siadlak. Lifehacker.
 site_url: https://ludwikc.net
-docs_dir: docs
+docs_dir: ludwikc-pov
+
+
+exclude: 
+  - ludwikc-pov/private/
+  - ludwikc-pov/personal/
+  - ludwikc-pov/.trash/
+
 theme:
   logo: assets/images/favicon.png
   name: material
@@ -30,8 +37,8 @@ theme:
     - navigation.top
     - navigation.footer
 
-repo_url: https://github.com/ludwikc/Lifehacker
-repo_name: ludwikc/lifehacker
+repo_url: https://github.com/ludwikc/ludwikc.net
+repo_name: ludwikc/ludwikc.net
 
 markdown_extensions:
   - pymdownx.highlight:
@@ -73,9 +80,12 @@ extra:
   generator: false
 
 plugins:
-  - git-committers:
-      repository: ludwikc/ludwikc.net
-      branch: main
+#  - git-committers:
+#      repository: ludwikc/ludwikc.net
+#      branch: main
+#      type: timeago
+  - git-revision-date-localized:
+      enable_creation_date: true
   - pub-obsidian:
       obsidian_dir: .obsidian
   - pub-meta:
@@ -83,8 +93,8 @@ plugins:
         file_default: draft
         file_warn_on_missing: true
         dir_default: published
-      title:
-        key_name: title
+#      title:
+#        key_name: title
       overview:
         default: auto
         key_name: permalink
