@@ -1,7 +1,6 @@
 site/
 ludwikc-pov/private/
 ludwikc-pov/personal/
-ludwikc-pov/.*
 ludwikc-pov/.smart-env/
 .obsidian/
 .pub_blog_temp/

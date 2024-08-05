@@ -38,7 +38,7 @@ theme:
     - navigation.footer
 
 repo_url: https://github.com/ludwikc/ludwikc.net
-repo_name: ludwikc/ludwikc.net
+repo_name: ludwikc/ludwikc.github.io
 
 markdown_extensions:
   - pymdownx.highlight:
