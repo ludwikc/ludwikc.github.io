@@ -1,4 +1,0 @@
-
-Raycast
-Rize 
-Sparkmail

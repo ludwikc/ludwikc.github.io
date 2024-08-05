@@ -1,1 +1,0 @@
-considering this will be an online course. the module should be no more than 1 hour (spoken at typical pace) and each lesson should be around 10 mins. adjust the contents accordingly. remember that the course consists of 8 modules, so make sure none of the lessons could be perceived as duplicates among the modules. 
