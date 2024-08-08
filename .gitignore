@@ -2,6 +2,7 @@ site/
 ludwikc-pov/private/
 ludwikc-pov/personal/
 ludwikc-pov/.smart-env/
+ludwikc_pov/_templates/
 .obsidian/
 .pub_blog_temp/
 .cache/

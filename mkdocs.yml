@@ -1,33 +1,40 @@
-site_name: Ludwik C. Siadlak. Lifehacker.
+site_name: ludwikc.net / pov 
 site_url: https://ludwikc.net
 docs_dir: ludwikc-pov
 
-
-exclude: 
-  - ludwikc-pov/private/
-  - ludwikc-pov/personal/
-  - ludwikc-pov/.trash/
+exclude_docs:
+  ludwikc-pov/private/
+  ludwikc-pov/personal/
+  ludwikc-pov/.trash/
+  ludwikc-pov/_templates/
 
 theme:
-  logo: assets/images/favicon.png
+  favicon: assets/images/favicon.png
   name: material
+  language: en
+  icon:
+#    logo: logo
+    annotation: material/eye-circle
   palette:
     - media: "(prefers-color-scheme)"
       toggle:
-        icon: material/brightness-auto
+        icon: material/link
         name: Switch to light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default 
       toggle:
-        icon: material/brightness-7
+        icon: material/toggle-switch
         name: Switch to dark mode
       primary: black
       accent: blue
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       toggle:
-        icon: material/brightness-4
+        icon: material/toggle-switch-off
         name: Switch to system preference
+  font: 
+    text: Roboto
+    code: Roboto Mono
 
   features:
     - navigation.tabs
@@ -36,9 +43,11 @@ theme:
     - navigation.path
     - navigation.top
     - navigation.footer
+    - content.tooltips
+    - content.action.edit
 
-repo_url: https://github.com/ludwikc/ludwikc.net
-repo_name: ludwikc/ludwikc.github.io
+repo_url: https://github.com/ludwikc/ludwikc.github.io
+repo_name: ludwikc.net/pov
 
 markdown_extensions:
   - pymdownx.highlight:
@@ -52,7 +61,10 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.mark
+  - pymdownx.tasklist:
+      custom_checkbox: true
   - attr_list
+  - md_in_html
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
@@ -77,17 +89,23 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/ludwikc
+    - icon: fontawesome/brands/instagram
+      link: https://instagram.com/ludwikc
   generator: false
 
 plugins:
+#  - search
+#      separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
   - git-committers:
-      repository: ludwikc/ludwikc.net
+      repository: ludwikc/ludwikc.github.io
       branch: main
-      type: timeago
   - git-revision-date-localized:
       enable_creation_date: true
   - pub-obsidian:
       obsidian_dir: .obsidian
+      links:
+        wikilinks_enabled: true
+        img_lazy: true
   - pub-meta:
       publish:
         file_default: draft
