@@ -1,9 +1,9 @@
 ---
 title: Accessibility
-date: '2024-07-27T02:47:35+02:00'
-author: 'Ludwik C. Siadlak'
+date: 2024-07-27T02:47:35+02:00
+author: Ludwik C. Siadlak
 layout: page
-
+publish: "true"
 ---
 
 # Advanced Training Solutions Accessibility Statement

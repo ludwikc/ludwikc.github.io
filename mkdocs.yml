@@ -46,7 +46,7 @@ theme:
     - content.tooltips
     - content.action.edit
 
-repo_url: https://github.com/ludwikc/ludwikc.github.io
+repo_url: https://github.com/ludwikc/pov/
 repo_name: ludwikc.net/pov
 
 markdown_extensions:
