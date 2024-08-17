@@ -1,6 +1,7 @@
 ---
 title: Random things to add to projects
 published: true
+slug: random-todos
 ---
 
 [] Backup Lifehakerzy.pl Discord
