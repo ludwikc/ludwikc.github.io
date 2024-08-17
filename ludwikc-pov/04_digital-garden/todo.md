@@ -11,3 +11,4 @@ published: true
  [?] forum.hackerzy.pl
  [?] forum.lifehackerzy.pl
  [?] 
+[] fix deploying mkdocs on github
