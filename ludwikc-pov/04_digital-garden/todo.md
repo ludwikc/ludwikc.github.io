@@ -1,6 +1,6 @@
 ---
 title: Random things to add to projects
-published: true
+publish: true
 slug: random-todos
 ---
 
