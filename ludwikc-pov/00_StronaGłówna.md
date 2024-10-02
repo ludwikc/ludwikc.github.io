@@ -1,7 +1,7 @@
 ---
 title: Strona Główna
 publish: "true"
-slug: home
+slug: index
 ---
 
 

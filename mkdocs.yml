@@ -111,8 +111,8 @@ plugins:
         file_default: draft
         file_warn_on_missing: true
         dir_default: published
-#      title:
-#        key_name: title
+      title:
+        key_name: title
       overview:
         default: auto
         key_name: permalink
@@ -125,6 +125,7 @@ plugins:
       site_name_in_title:
         location: after
         delimiter: " - "
+  - glightbox
   
 
 copyright: |

@@ -1,7 +1,7 @@
 ---
-publish: true
+publish: "true"
 slug: biznes
-title: W jakim biznesie jesteś? 
+title: W jakim biznesie jesteś?
 ---
 
 
