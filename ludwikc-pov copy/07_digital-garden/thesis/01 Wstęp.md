@@ -1,0 +1,19 @@
+# Definicja i znaczenie efektu Michała Anioła
+
+W dziedzinie psychologii bliskich związków pojęcie efektu Michała Anioła odnosi się do sposobu, w jaki partnerzy w romantycznych relacjach wzajemnie kształtują swoje ideały i wspierają się w dążeniu do realizacji własnego potencjału. Nazwa tego efektu pochodzi od słynnego rzeźbiarza Michała Anioła, który wierzył, że w każdym kawałku marmuru ukryta jest rzeźba, a zadaniem artysty jest jedynie usunięcie zbędnych warstw, by odkryć to, co ukryte. Podobnie, w kontekście relacji międzyludzkich, efekt Michała Anioła opisuje proces, w którym partnerzy, poprzez wzajemne wsparcie i zachętę, pomagają sobie nawzajem w realizowaniu ich osobistych celów i rozwijaniu pełniejszego potencjału osobistego [(Agnew et al., 1998)](https://psycnet.apa.org/doi/10.1037/0022-3514.74.4.939).
+
+Efekt ten odgrywa istotną rolę w rozwijaniu i utrzymaniu satysfakcjonujących relacji, ponieważ pomaga partnerom dostrzegać i kształtować pozytywne cechy w sobie nawzajem, co prowadzi do pogłębiania intymności i więzi między nimi. Współczesne badania pokazują, że zrozumienie i implementacja tego efektu może przyczyniać się do długoterminowej stabilności i szczęścia w związkach [(Rusbult & Van Lange, 2003)](https://www.annualreviews.org/doi/10.1146/annurev.psych.54.101601.145059).
+
+# Cel i zakres pracy
+
+Celem niniejszej pracy jest zgromadzenie i usystematyzowanie dostępnych badań naukowych dotyczących efektu Michała Anioła, ze szczególnym uwzględnieniem jego roli w bliskich relacjach romantycznych. Badanie to ma na celu nie tylko zrozumienie teoretycznych podstaw tego zjawiska, ale również pokazanie praktycznych zastosowań efektu w codziennym życiu, które mogą prowadzić do poprawy jakości i trwałości związków międzyludzkich.
+
+Zakres pracy obejmuje szerokie spektrum zagadnień, począwszy od definicji i historii efektu Michała Anioła, poprzez omówienie mechanizmów jego działania w związkach, aż po analizę wyników empirycznych badań przeprowadzonych w tym obszarze. Ponadto, praca ta porównuje efekt Michała Anioła z innymi teoriami psychologicznymi dotyczącymi relacji interpersonalnych, co pozwala na szersze zrozumienie jego unikalności i funkcji. Przyglądając się zarówno zaletom, jak i ograniczeniom tej koncepcji, praca proponuje także kierunki przyszłych badań, które mogą poszerzyć aktualny stan wiedzy w tej dziedzinie [(Agnew et al., 1998)](https://psycnet.apa.org/doi/10.1037/0022-3514.74.4.939); [(Murray & Holmes, 1997)](https://psycnet.apa.org/doi/10.1037/0022-3514.72.6.1185).
+
+# Metodologia badań
+
+Metodologia niniejszej pracy opiera się na przeglądzie literatury, który stanowi przemyślaną i systematyczną analizę istniejących badań naukowych dotyczących efektu Michała Anioła w kontekście bliskich związków. Zakres przeglądu obejmuje zarówno artykuły naukowe, jak i książki akademickie, które dostarczają teoretycznych i empirycznych podstaw do zrozumienia tego zjawiska.
+
+Badania opierają się na analizie literatury, która została zgromadzona z różnorodnych źródeł, w tym renomowanych czasopism psychologicznych oraz książek, które rozszerzają wiedzę na temat mechanizmów działania efektu Michała Anioła. Kluczowym kryterium wyboru materiałów była ich istotność wobec tematu pracy, a także ich wkład w rozwijanie lub krytykę efektu Michała Anioła.
+
+Metodologiczną podstawą przy organizacji pracy stanowi podejście jakościowe, skupiające się na opisaniu i zrozumieniu aspektów teoretycznych i praktycznych omawianego zjawiska. W ramach analizy porównawczej literatura została podzielona na tematyczne kategorie, które pozwalają na przejrzystą prezentację wyników i wniosków płynących z przestudiowanych prac [(Rusbult & Van Lange, 2003)](https://www.annualreviews.org/doi/10.1146/annurev.psych.54.101601.145059); [(Baldwin & Sinclair, 1996)](https://psycnet.apa.org/doi/10.1037/0022-3514.71.3.491).
